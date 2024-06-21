@@ -9,4 +9,4 @@ Yu-Konek is an AI-driven platform designed to help YouTube creators in Indonesia
 - :busts_in_silhouette: Community Forum: Engage with other creators in discussions and share insights within the community.
 
 # Preview
-![Design Presentation](https://github.com/Yu-Konek/Yu-Konek/assets/170302643/223dc64e-472b-4aff-86c4-c8c6226f5ea9)
+![yu-konek-presentation](https://github.com/Yu-Konek/Yu-Konek/assets/170302643/bf434fbe-ff7c-4c81-8cd5-9fb799d12e63)
